@@ -1,6 +1,6 @@
 # Hi, I'm Anushka! 👋
 
-**Aspiring Developer | Python & Web Development Enthusiast**
+**B.Tech CSE - 3rd Year | Aspiring Developer | Python & Web Development Enthusiast**
 
 ---
 
