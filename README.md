@@ -30,12 +30,5 @@ and growing every single day! 💪
 
 ---
 
-## 📊 GitHub Stats
-![Anushka's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anushkasoni-06&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anushkasoni-06&layout=compact&theme=tokyonight)
-
----
-
 ## 📫 Let's Connect!
 - 💼 Open to collaborations and learning together!
